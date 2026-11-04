@@ -1,0 +1,21 @@
+﻿waktu_penerimaan,waktu_detik,suhu,zscore,status_anomali,status_penyimpanan_csv
+2026-10-22 16:48:31,0.0,30.01,0.4389,Normal,Tersimpan
+2026-10-22 16:48:33,2.06,29.76,0.3513,Normal,Tersimpan
+2026-10-22 16:48:35,4.03,30.0,0.4354,Normal,Tersimpan
+2026-10-22 16:48:37,6.06,30.22,0.5126,Normal,Tersimpan
+2026-10-22 16:48:39,8.07,29.14,0.1339,Normal,Tersimpan
+2026-10-22 16:48:41,10.06,29.84,0.3793,Normal,Tersimpan
+2026-10-22 16:48:43,12.0,29.23,0.1655,Normal,Tersimpan
+2026-10-22 16:48:45,14.06,29.42,0.2321,Normal,Tersimpan
+2026-10-22 16:48:47,16.07,29.49,0.2566,Normal,Tersimpan
+2026-10-22 16:48:49,18.06,36.56,2.7353,Anomali,Tersimpan
+2026-10-22 16:49:31,60.01,26.5,-0.7916,Normal,Tersimpan
+2026-10-22 16:49:33,62.01,26.43,-0.8162,Normal,Tersimpan
+2026-10-22 16:49:35,64.06,26.48,-0.7986,Normal,Tersimpan
+2026-10-22 16:49:37,66.01,26.44,-0.8127,Normal,Tersimpan
+2026-10-22 16:49:39,68.01,34.42,1.985,Normal,Tersimpan
+2026-10-22 16:49:41,70.0,26.2,-0.8968,Normal,Tersimpan
+2026-10-22 16:49:43,72.16,26.3,-0.8617,Normal,Tersimpan
+2026-10-22 16:49:45,74.0,25.91,-0.9985,Normal,Tersimpan
+2026-10-22 16:49:47,76.01,26.54,-0.7776,Normal,Tersimpan
+2026-10-22 16:49:49,78.01,26.27,-0.8723,Normal,Tersimpan
