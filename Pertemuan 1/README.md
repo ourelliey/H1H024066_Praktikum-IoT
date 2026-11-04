@@ -1,7 +1,7 @@
 Nama: Aurellia Nabila Rahma Putri  
 NIM: H1H024066  
 Shift Awal: C  
-Shift Akhir: C
+Shift Akhir: D
 
 ---
 
@@ -10,7 +10,8 @@ Shift Akhir: C
 ## 1. Gambarkan diagram alur (flowchart) proses akuisisi data sensor DHT11 pada program di atas!
 
 ```mermaid
-![Uploading image.png…]()
+<img width="458" height="373" alt="flowchartmodul1" src="https://github.com/user-attachments/assets/503ee52e-bafb-4852-aa20-9e900b6ced81" />
+
 ```
 
 ## 2. Apa fungsi dari perintah `isnan()` pada program tersebut?
