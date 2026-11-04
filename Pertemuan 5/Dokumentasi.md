@@ -1,6 +1,7 @@
 # Dokumentasi Percobaan 5A
 
 ## Gambar Percobaan
+<img width="565" height="353" alt="percobaan5a" src="https://github.com/user-attachments/assets/8c4d05c7-4847-4132-a573-933a0667da6c" />
 <img width="1600" height="898" alt="percobaan5a" src="https://github.com/user-attachments/assets/3000c857-c11e-4343-96e5-e66ced9c7196" />
 
 ---
