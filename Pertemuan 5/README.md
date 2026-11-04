@@ -9,7 +9,7 @@
 
 ## 1. Gambarkan diagram alur (flowchart) proses perhitungan moving average pada fungsi hitungMovingAverage()!
 
-<img width="272" height="374" alt="flowchartmodul5" src="https://github.com/user-attachments/assets/2341f81b-1417-4cc7-a6f6-d062b2f87370" />
+<img width="901" height="1746" alt="flowchartmodul5lagi" src="https://github.com/user-attachments/assets/59e45b98-f436-42a0-bb93-099fa63504bf" />
 
 ## 2. Jelaskan fungsi dari operasi (indeks + 1) % N pada program tersebut!
 
