@@ -1,4 +1,3 @@
-
 #include <Arduino.h>
 #include <math.h>
 #include <ESP8266WiFi.h>
@@ -13,7 +12,7 @@ const char* broker = "broker.hivemq.com";
 const int port = 1883;
 
 // Ganti dengan topik unik milikmu
-const char* topicData = "unsoed/tk245004/kelompok1/data";
+const char* topicData = "unsoed/tk245004/kelompokaurelula/data";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
