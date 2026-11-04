@@ -1,7 +1,7 @@
-Nama: Aurellia Nabila Rahma Putri  
-NIM: H1H024066  
-Shift Awal: C  
-Shift Akhir: D
+**Nama:** Aurellia Nabila Rahma Putri  
+**NIM:** H1H024066  
+**Shift Awal:** C  
+**Shift Akhir:** D  
 
 ---
 
@@ -9,23 +9,7 @@ Shift Akhir: D
 
 ## 1. Gambarkan diagram alur (flowchart) proses perhitungan moving average pada fungsi hitungMovingAverage()!
 
-Flowchart proses perhitungan moving average dimulai dengan memasukkan nilai suhu terbaru ke dalam buffer. Selanjutnya, indeks buffer diperbarui menggunakan operasi modulo agar bergerak secara melingkar. Jika jumlah data belum mencapai kapasitas buffer, jumlah data akan ditambah. Setelah itu, seluruh data yang tersimpan dijumlahkan dan dibagi dengan jumlah data untuk memperoleh nilai rata-rata bergerak.
-
-```mermaid
-flowchart TD
-    A([Mulai hitungMovingAverage nilaiBaru]) --> B[buffer indeks = nilaiBaru]
-    B --> C["indeks = (indeks + 1) % N"]
-    C --> D{jumlah < N?}
-    D -- Ya --> E[jumlah = jumlah + 1]
-    D -- Tidak --> F[total = 0 dan i = 0]
-    E --> F
-    F --> G{i < jumlah?}
-    G -- Ya --> H["total = total + buffer[i]"]
-    H --> I[i = i + 1]
-    I --> G
-    G -- Tidak --> J["return total / jumlah"]
-    J --> K([Selesai])
-```
+<img width="272" height="374" alt="flowchartmodul5" src="https://github.com/user-attachments/assets/2341f81b-1417-4cc7-a6f6-d062b2f87370" />
 
 ## 2. Jelaskan fungsi dari operasi (indeks + 1) % N pada program tersebut!
 
